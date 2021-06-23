@@ -1,2 +1,2 @@
-# LeetCode
-SIP
+
+# Summer Internship Program
